@@ -6,7 +6,7 @@ import pymysql
 db = {"host":'127.0.0.1',
       "port":3306,
       "user":'root',
-      "passwd":'Victoria1',
+      "passwd":¡¯***¡¯,
       "db":'t1',
       "charset" : "utf8"}
 conn = pymysql.Connect(**db)
