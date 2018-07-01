@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**|com/|com/" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="main/java/|main/resources/|test/java/|main/resources/com/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/main/resources/com"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/yinyu/Downloads/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="/Users/yinyu/Downloads/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/yinyu/Downloads/commons-logging-1.1.1 (1).jar"/>
+	<classpathentry kind="lib" path="/Users/yinyu/Downloads/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/yinyu/Downloads/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/yinyu/Downloads/json-lib-2.2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="/Users/yinyu/Downloads/jxl-2.6.10.jar"/>
+	<classpathentry kind="lib" path="/Users/yinyu/Downloads/jackson-all-1.9.9.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
